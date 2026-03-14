@@ -23,13 +23,14 @@ export default function HomePage() {
   // Initialize buyerInfo from Zustand if available
   const [buyerInfo, setBuyerInfo] = useState({ 
     name: user?.firstName || "", 
-    phone: user?.whatsappNumber || "" 
+    phone: user?.whatsappNumber || "" ,
+    id:user?.id || ""
   });
 
   // Keep state in sync if user logs in/out
   useEffect(() => {
     if (user) {
-      setBuyerInfo({ name: user.firstName, phone: user.whatsappNumber });
+      setBuyerInfo({ name: user.firstName, phone: user.whatsappNumber,id:user.id });
     }
   }, [user]);
 
