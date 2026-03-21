@@ -1,4 +1,15 @@
 # 🚀 Marketplace.ai
+
+---
+
+## 🌐 Live Demo
+Experience the power of the platform here:  
+**[👉 Live Link: marketPlace.ai.vercel.app](https://market-place-ai-frontend.vercel.app/)**
+
+> **Note:** Since this is hosted on a **free tier**, the backend may take 30-60 seconds to "wake up" on the first request. Please be patient while the server initializes! 🚀
+
+---
+
 ### AI-Powered B2B Lead Generation & Wholesaler Matching
 
 Marketplace.ai is a next-generation platform that connects buyers with wholesalers using **AI-driven vector search**. Instead of manual browsing, buyers describe what they need, and our AI matches the request with the most relevant suppliers, notifying them instantly via WhatsApp.
