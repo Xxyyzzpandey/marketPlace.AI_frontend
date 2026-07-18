@@ -52,7 +52,7 @@ This project is split into two repositories: the **Frontend (Next.js)** and the 
 
 ### 1. Backend Setup (API & Database)
 The core logic, AI matching engine, and WhatsApp integrations reside in the backend repository.
-* **Go to the Backend Repository:** [https://github.com/Xxyyzzpandey/marketplace-ai-frontend.git]
+* **Go to the Backend Repository:** https://github.com/Xxyyzzpandey/MarketPlace.AI_backend
 * **Follow the instructions** in the backend `README.md` to set up your MongoDB, Environment Variables, and WhatsApp Webhooks.
 * Ensure the server is running (usually on `http://localhost:5000`) before starting the frontend.
 
