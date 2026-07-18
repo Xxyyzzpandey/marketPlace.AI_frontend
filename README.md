@@ -63,5 +63,5 @@ Once the backend is configured, follow these steps to set up the marketplace int
 
 **Clone the Frontend repository:**
 ```bash
-git clone [https://github.com/Xxyyzzpandey/marketplace-ai-frontend.git](https://github.com/Xxyyzzpandey/marketplace-ai-frontend.git)
+git clone https://github.com/Xxyyzzpandey/marketplace-ai-frontend.git
 cd marketplace-ai-frontend
